@@ -411,6 +411,7 @@ export default class QuillEditor extends React.Component<
       source={{ html: content }}
       ref={this._webview}
       onMessage={this.onMessage}
+      androidHardwareAccelerationDisabled={true}
     />
   );
 
