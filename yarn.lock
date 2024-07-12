@@ -7695,10 +7695,10 @@ react-native-builder-bob@^0.18.1:
   optionalDependencies:
     jetifier "^1.6.6"
 
-react-native-webview@^13.10.4:
-  version "13.10.4"
-  resolved "https://registry.npmjs.org/react-native-webview/-/react-native-webview-13.10.4.tgz"
-  integrity sha512-kRn70M7vyBS3IDaX2KqyF66ovUkrBS6LiHOgrEmRdZFO0i3hYY0wldEv1fJuKvgQIPMfo7GtGAjozFrk2vQdBw==
+react-native-webview@^13.10.5:
+  version "13.10.5"
+  resolved "https://registry.npmjs.org/react-native-webview/-/react-native-webview-13.10.5.tgz"
+  integrity sha512-ZfQJHyifuZop8cQB8HYpL9dxss9Cw9sOlMU+/yarfG/ugoL0rky/0tq9QmEydFMXjDSplSUb22OrRdFlqfXe0g==
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
